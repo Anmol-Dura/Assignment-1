@@ -1,0 +1,13 @@
+# Ignore specific files
+myfile.txt
+secretfile.txt
+
+# Ignore files with a specific extension
+*.log
+*.exe
+
+# Ignore files in a specific directory
+mydirectory/
+
+# Ignore all files with a specific name in all directories
+*/.DS_Store
