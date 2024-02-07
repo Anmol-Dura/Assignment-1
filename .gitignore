@@ -11,3 +11,6 @@ mydirectory/
 
 # Ignore all files with a specific name in all directories
 */.DS_Store
+
+#the .ida file
+.idea/

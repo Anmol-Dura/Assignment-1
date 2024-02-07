@@ -1,0 +1,14 @@
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/bin/Debug/net7.0/Wealthy Aunt
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/bin/Debug/net7.0/Wealthy Aunt.deps.json
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/bin/Debug/net7.0/Wealthy Aunt.runtimeconfig.json
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/bin/Debug/net7.0/Wealthy Aunt.dll
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/bin/Debug/net7.0/Wealthy Aunt.pdb
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/obj/Debug/net7.0/Wealthy Aunt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/obj/Debug/net7.0/Wealthy Aunt.AssemblyInfoInputs.cache
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/obj/Debug/net7.0/Wealthy Aunt.AssemblyInfo.cs
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/obj/Debug/net7.0/Wealthy Aunt.csproj.CoreCompileInputs.cache
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/obj/Debug/net7.0/Wealthy Aunt.dll
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/obj/Debug/net7.0/refint/Wealthy Aunt.dll
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/obj/Debug/net7.0/Wealthy Aunt.pdb
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/obj/Debug/net7.0/Wealthy Aunt.genruntimeconfig.cache
+/Users/anmoldura/Desktop/Assignment#1/Wealthy Aunt/obj/Debug/net7.0/ref/Wealthy Aunt.dll
